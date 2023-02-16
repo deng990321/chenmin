@@ -13,5 +13,5 @@ APP_SECRET: "010184a1fb49baf28eb2d14cca141732"
 
 USER_ID: 
   - "oKQRR5xFIO5Ddp_I7pYZ_L8fR9BQ"
-  - "USER ID 2" # 你可以通过配置多个USER_ID来设置多个接受者，如果接受者只有一人删除本行即可
+  - "5i4TCbHZpp4XuW_FJsjDH4-mqJyR7fJ1iBc1p82xKho" # 你可以通过配置多个USER_ID来设置多个接受者，如果接受者只有一人删除本行即可
 TEMPLATE_ID: "	5i4TCbHZpp4XuW_FJsjDH4-mqJyR7fJ1iBc1p82xKho"
